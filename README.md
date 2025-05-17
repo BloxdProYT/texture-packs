@@ -1,10 +1,11 @@
 # Bloxd Texture Packs
 A repository containing texture packs for bloxd.io. Bellow you will find instructions on how to create your own custom texture pack.
 
-## Tools to help make Texture Packs
+## Tools to help with tpack making
 - https://www.piskelapp.com/
 - https://nimadez.github.io/voxel-builder/
 - https://skybox-generator.vercel.app/
+- https://web.blockbench.net/
 
 ## Structure of a Texture Pack
 A texture pack is a folder that has the following structure:
